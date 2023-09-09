@@ -1,5 +1,9 @@
+<h1 align="center">Hi 👋, I'm Chiranjeevi</h1>
+<h3 align="center">Web Developer | Competitive Coder </h3>
+<br>
+<img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning AWS, MERN Full Stack<br>⚡ Fun fact Formula 1 steering wheels have more lines of code than a modern fighter jet's avionics system.
+🎓 I am a Third year student at VIT Vellore (B.Tech CSE Data Science) with a CGPA of 9.26<br>🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning AWS, MERN Full Stack<br>⚡ Fun fact Formula 1 steering wheels have more lines of code than a modern fighter jet's avionics system.
 
 
 ## 🌐 Socials:
