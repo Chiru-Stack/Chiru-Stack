@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiranjeevi</h1>
 <h3 align="center">Web Developer | Competitive Coder </h3>
 <br>
-<!--<img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">-->
+<a href="https://app.daily.dev/Chiru7"><img src="https://api.daily.dev/devcards/34a802ee9baf4d4bb0aa5e5c6416e8c9.png?r=4qz" width="400" alt="Chiranjeevi Karanki's Dev Card"/></a>
 
 ## 💫 About Me:
 🎓 I am a Third year student at VIT Vellore (B.Tech CSE ) with a CGPA of 9.26<br>🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning AWS, MERN Full Stack<br>⚡ Fun fact Formula 1 steering wheels have more lines of code than a modern fighter jet's avionics system.
